@@ -1,4 +1,5 @@
 # Sistema de Arquivos em C
+Status: Em desenvolvimento
 
 Projeto desenvolvido em linguagem C para simular o funcionamento básico de um sistema de arquivos hierárquico semelhante aos encontrados em sistemas operacionais.
 
